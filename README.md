@@ -43,3 +43,8 @@ To run the script you need to do the following:
 1. Ensure you are using a compatible ruby version (3.0.2)
 2. `bundle install`
 3. `ruby lib/webpage_visit.rb path-to-your-log`
+
+Development Documentation
+-------------------------
+![](https://github.com/Odoia/webpage-parser/blob/main/webpage%20visits.png)
+
